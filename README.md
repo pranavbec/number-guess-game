@@ -5,7 +5,7 @@ Welcome to the Guessing Game project! This simple web application allows users t
 
 ## How to Play
 
-1. Open the [Guessing Game](link_to_your_game) in your web browser.
+1. Open the [Guessing Game](https://pranavbec.github.io/number-guess-game/) in your web browser.
 2. Enter your guess into the input field provided.
 3. Click the "Check Guess" button to see if your guess is correct.
 4. Keep guessing until you find the correct number!
